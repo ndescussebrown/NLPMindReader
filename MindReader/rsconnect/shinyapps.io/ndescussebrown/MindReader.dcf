@@ -1,0 +1,12 @@
+name: MindReader
+title: MindReader
+username:
+account: ndescussebrown
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1004748
+bundleId: 2188893
+url: https://ndescussebrown.shinyapps.io/MindReader/
+when: 1561904302.28436
+asMultiple: FALSE
+asStatic: FALSE
